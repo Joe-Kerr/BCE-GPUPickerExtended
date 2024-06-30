@@ -1,0 +1,16 @@
+{
+  "name": "bce-gpupickerextended",
+  "version": "1.0.0",
+  "description": "From here https://forum.babylonjs.com/t/new-feature-gpu-picking/51106/31?u=joe_kerr",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@babylonjs/core": "^7.13.0"
+  }
+}
